@@ -39,7 +39,7 @@
 &emsp;&emsp;**[第四步：键盘快捷键 `Win + X`（鼠标操作为 `右击电脑屏幕左下角 Windows 图标`）。选择 Windows PowerShell(管理员)(A)，如下图红色框标出。](#forth)**
 
 <div align="center">
-    <img src="pics/Q3.png" width="200">
+    <img src="pics/Q3.png" width="250">
 </div>
 
 &emsp;&emsp;**[第五步：在命令行中输入 `netsh winsock reset`，按下回车执行，然后重启电脑，完成。](#fifth)**
