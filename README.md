@@ -4,6 +4,8 @@
 
 ### ⭐ 目录查询
 
+>> **特别提醒：** 如果以下方法并没有帮助到您，请联系作者QQ 784958034。或者您有什么新的问题也可与我进行联系。
+
 + [“你的电脑将在一分钟后自动重启”](#Q1) 解决方法 [➡](#Q1)
 
 + [“电源已接通，未充电”](#Q2) 解决方法 [➡](#Q2)
@@ -27,7 +29,7 @@
 &emsp;&emsp;**[第一步：在下图所示启动界面按住 `shift` 键点击重启。](#first)**
 
 <div align="center">
-    <img src="pics/Q2.jpg" width="500">
+    <img src="pics/Q2.jpg" width="700">
 </div>
 
 &emsp;&emsp;**[第二步：依次选择 “查看高级修复选项” → “疑难解答” → “高级选择” → “启动设置” → “重启”。](#second)**
@@ -37,13 +39,13 @@
 &emsp;&emsp;**[第四步：键盘快捷键 `Win + X`（鼠标操作为 `右击电脑屏幕左下角 Windows 图标`）。选择 Windows PowerShell(管理员)(A)，如下图红色框标出。](#forth)**
 
 <div align="center">
-    <img src="pics/Q3.png" width="300">
+    <img src="pics/Q3.png" width="200">
 </div>
 
 &emsp;&emsp;**[第五步：在命令行中输入 `netsh winsock reset`，按下回车执行，然后重启电脑，完成。](#fifth)**
 
 <div align="center">
-    <img src="pics/Q4.png" width="500">
+    <img src="pics/Q4.png" width="700">
 </div>
 
 <div align="right">
